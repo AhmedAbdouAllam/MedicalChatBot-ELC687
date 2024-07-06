@@ -14,7 +14,7 @@
 * Front-End/ Back-End (P4)
 
 |          | Mahmoud  | Omnia | Dina | Allam |
-|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 | Day 1    | Investigate Model   | Data Retrival | Data Retrival | Investigate Model |
 | Day 2    | Model Implementation   | Front End Investigation   | ChatBot Investigation| Model Implementation|
 | Day 3    | Chatbot Implementation   | Front-End Investigation   | Chatbot Implementation | Backend Implementation|
